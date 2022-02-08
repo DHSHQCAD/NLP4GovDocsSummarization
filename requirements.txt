@@ -92,7 +92,7 @@ ptyprocess==0.7.0
 py==1.10.0
 pybind11==2.6.1
 pycparser==2.20
-pydantic==1.7.3
+pydantic==1.7.4
 pyee==8.2.2
 Pygments==2.8.1
 pyparsing==2.4.7
