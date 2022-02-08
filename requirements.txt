@@ -139,7 +139,7 @@ traitlets==5.0.5
 transformers==2.11.0
 typer==0.3.2
 typing-extensions @ file:///home/ktietz/src/ci_mi/typing_extensions_1612808209620/work
-urllib3==1.26.4
+urllib3==1.26.5
 w3lib==1.22.0
 wasabi==0.8.2
 wcwidth==0.2.5
